@@ -1,0 +1,617 @@
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 1, 2))
+('End Date:', datetime.date(2023, 1, 2))
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S32/6/GN
+CURRENT STATUS: CNF/S32/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S32/6/GN
+CURRENT STATUS: CNF/S32/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/B101/6/GN
+CURRENT STATUS: CNF/B101/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/A42/6/GN
+CURRENT STATUS: CNF/A42/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'JISHNUTEJA', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S49/6/GN
+CURRENT STATUS: CNF/S49/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'JDJD', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S37/6/GN
+CURRENT STATUS: CNF/S37/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishn')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'HSHDH', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S3/6/GN
+CURRENT STATUS: CNF/S3/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S32/6/GN
+CURRENT STATUS: CNF/S32/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/B101/6/GN
+CURRENT STATUS: CNF/B101/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/A42/6/GN
+CURRENT STATUS: CNF/A42/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'JISHNUTEJA', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S49/6/GN
+CURRENT STATUS: CNF/S49/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'JDJD', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S37/6/GN
+CURRENT STATUS: CNF/S37/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishn')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+Passenger Details:
+('Name:', 'HSHDH', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S3/6/GN
+CURRENT STATUS: CNF/S3/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 60932)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S32/6/GN
+CURRENT STATUS: CNF/S32/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 52712)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/B101/6/GN
+CURRENT STATUS: CNF/B101/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 40507)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/A42/6/GN
+CURRENT STATUS: CNF/A42/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91527)
+Passenger Details:
+('Name:', 'JISHNUTEJA', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S49/6/GN
+CURRENT STATUS: CNF/S49/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91419)
+Passenger Details:
+('Name:', 'JDJD', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S37/6/GN
+CURRENT STATUS: CNF/S37/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishn')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 76000)
+Passenger Details:
+('Name:', 'HSHDH', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S3/6/GN
+CURRENT STATUS: CNF/S3/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 60932)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S32/6/GN
+CURRENT STATUS: CNF/S32/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 52712)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/B101/6/GN
+CURRENT STATUS: CNF/B101/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 40507)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/A42/6/GN
+CURRENT STATUS: CNF/A42/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91527)
+Passenger Details:
+('Name:', 'JISHNUTEJA', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S49/6/GN
+CURRENT STATUS: CNF/S49/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91419)
+Passenger Details:
+('Name:', 'JDJD', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S37/6/GN
+CURRENT STATUS: CNF/S37/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishn')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 76000)
+Passenger Details:
+('Name:', 'HSHDH', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S3/6/GN
+CURRENT STATUS: CNF/S3/6/GN
+('Ticket Status:', 'cancelled')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 60932)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S32/6/GN
+CURRENT STATUS: CNF/S32/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 52712)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/B101/6/GN
+CURRENT STATUS: CNF/B101/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 40507)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/A42/6/GN
+CURRENT STATUS: CNF/A42/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91527)
+Passenger Details:
+('Name:', 'JISHNUTEJA', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S49/6/GN
+CURRENT STATUS: CNF/S49/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91419)
+Passenger Details:
+('Name:', 'JDJD', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S37/6/GN
+CURRENT STATUS: Cancelled
+('Ticket Status:', 'Cancelled')
+
+---------------------------------------------
+('Booking username:', 'jishn')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 76000)
+Passenger Details:
+('Name:', 'HSHDH', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S3/6/GN
+CURRENT STATUS: CNF/S3/6/GN
+('Ticket Status:', 'cancelled')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 60932)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S32/6/GN
+CURRENT STATUS: CNF/S32/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 12))
+('End Date:', datetime.date(2023, 6, 12))
+('PNR:', 52712)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/B101/6/GN
+CURRENT STATUS: CNF/B101/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 40507)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/A42/6/GN
+CURRENT STATUS: CNF/A42/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91527)
+Passenger Details:
+('Name:', 'JISHNUTEJA', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S49/6/GN
+CURRENT STATUS: CNF/S49/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'jishnu')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 91419)
+Passenger Details:
+('Name:', 'JDJD', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S37/6/GN
+CURRENT STATUS: Cancelled
+('Ticket Status:', 'Cancelled')
+
+---------------------------------------------
+('Booking username:', 'jishn')
+---------------------------------------------
+('Train No. ', 125)
+('FROM ', 'MAS TO ', 'MS')
+('Start Date:', datetime.date(2023, 6, 19))
+('End Date:', datetime.date(2023, 6, 19))
+('PNR:', 76000)
+Passenger Details:
+('Name:', 'HSHDH', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'MALE')
+BOOKING STATUS: CNF/S3/6/GN
+CURRENT STATUS: Cancelled
+('Ticket Status:', 'Cancelled')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAs TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 44200)
+Passenger Details:
+('Name:', 'JISHNU', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/S83/6/GN
+CURRENT STATUS: CNF/S83/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 18173)
+Passenger Details:
+('Name:', 'HU', '     ', 'Passenger Age:', 18, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/S89/6/GN
+CURRENT STATUS: CNF/S89/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 82336)
+Passenger Details:
+('Name:', 'JI', '     ', 'Passenger Age:', 19, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/S70/6/GN
+CURRENT STATUS: CNF/S70/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 40551)
+Passenger Details:
+('Name:', 'JI', '     ', 'Passenger Age:', 19, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/S82/6/GN
+CURRENT STATUS: CNF/S82/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 81378)
+Passenger Details:
+('Name:', 'HUSG', '     ', 'Passenger Age:', 16, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/S36/6/GN
+CURRENT STATUS: CNF/S36/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 25340)
+Passenger Details:
+('Name:', 'HUS', '     ', 'Passenger Age:', 16, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/S34/6/GN
+CURRENT STATUS: CNF/S34/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 90843)
+Passenger Details:
+('Name:', 'TYYUE', '     ', 'Passenger Age:', 17, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/S83/6/GN
+CURRENT STATUS: CNF/S83/6/GN
+('Ticket Status:', 'booked')
+
+---------------------------------------------
+('Booking username:', 'Jishnu')
+---------------------------------------------
+('Train No. ', 123)
+('FROM ', 'MAS TO ', 'MDU')
+('Start Date:', 'Monday 12:12:12')
+('End Date:', 'Monday 15:15:15')
+('PNR:', 34375)
+Passenger Details:
+('Name:', 'GSU', '     ', 'Passenger Age:', 18, '     ', 'Passenger Gender:', 'M')
+BOOKING STATUS: CNF/B39/6/GN
+CURRENT STATUS: Cancelled
+('Ticket Status:', 'Cancelled')
+

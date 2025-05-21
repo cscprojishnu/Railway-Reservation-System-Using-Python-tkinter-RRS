@@ -1,0 +1,16 @@
+-----------------------------------------------
+          Ticket Successfully Booked!          
+-----------------------------------------------
+               Reservation Slip                
+-----------------------------------------------
+PNR: 34375
+TRAIN NO. 123
+TRAIN NAME: 123
+PASSENGER NAME:GSU
+PASSENGER AGE:18
+PASSENGER GENDER:M
+FROM MAS TO MDU
+SCH DEP: Monday 12:12:12     SCH ARR: Monday 15:15:15
+BOOKING STATUS: CNF/B39/6/GN
+Successfully Booked!
+

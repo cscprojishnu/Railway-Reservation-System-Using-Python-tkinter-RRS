@@ -1,0 +1,13 @@
+1. PIP INSTALLATION
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python get-pip.py
+
+2.MODULE REQUIREMENT INSTALLATION
+pip install calendar(built in module)
+pip install tk
+pip install mysql-connector-python
+pip install mysql-connector
+pip3 install mysql-connector
+
+3.PIP UPGRADATION
+python -m pip install -U pip
