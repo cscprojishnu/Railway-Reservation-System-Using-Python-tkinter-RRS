@@ -7,6 +7,7 @@ A GUI-based Train Ticket Booking System developed using **Python (Tkinter)** for
 📌 **Published in**: *Journal of Electrical Electronics Engineering, Vol 4, Issue 3 (2025)*  
 📅 **Published Date**: June 11, 2025  
 👤 **Author**: Jishnu Teja Dandamudi, Amrita School of Artificial Intelligence
+**PUBLICATION LINK**: [View PDF](https://www.opastpublishers.com/open-access-articles/creating-a-guibased-train-ticket-booking-system-in-python-using-mysql.pdf)
 
 ---
 
